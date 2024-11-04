@@ -1,6 +1,5 @@
 # Peak Solution Tools and Utilities supporting the Digital Transformation
 
-
 ![Motto image.](/profile/header_vmm_5-large.jpg)
 
 ## About Us
@@ -21,3 +20,13 @@ Peak Solution is committed to using open standards when implementing products an
 ## Tools and Utilities for Digital Transformation
 
 Below you find our tools and utilities as well as examples to make your life easier working with industry standards and our products.
+
+**Featured content:**
+
+* [OdsBox](https://github.com/peak-solution/odsbox)
+
+  A light-weight wrapper on top of the ASAM ODS HTTP-API; introducing pandas.DataFrames and the Mongo-DB-like JAQueL query for an easier handling of ASAM ODS with Python.
+
+* [Data Management Learning Path](https://peak-solution.github.io/data_management_learning_path/)
+
+  A collection of Jupyter Notebooks; explaining how to deal with ASAM ODS data, creating EXD-API Plugins or using Apache Spark in combination with ASAM ODS.
