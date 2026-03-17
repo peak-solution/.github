@@ -21,7 +21,7 @@ Below you find our tools and utilities as well as examples to make your life eas
 
 * [PeakTDM FileFocus](https://github.com/peak-solution/filefocus?tab=readme-ov-file#readme)
 
-*PeakTDM FileFocus* is the out‑of‑the‑box product experience of our ASAM ODS and EXD‑API ecosystem, featuring integrated file indexing and AI‑ready data transformation — ideal for ODSBox, EXD‑API plugins, and the Data Management Learning Path
+  *PeakTDM FileFocus* is the out‑of‑the‑box product experience of our ASAM ODS and EXD‑API ecosystem, featuring integrated file indexing and AI‑ready data transformation — ideal for ODSBox, EXD‑API plugins, and the Data Management Learning Path
 
 * [ASAM ODSBox](https://github.com/peak-solution/odsbox)
 
