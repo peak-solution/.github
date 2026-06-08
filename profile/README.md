@@ -29,7 +29,7 @@ Below you find our tools and utilities as well as examples to make your life eas
 
 * [Data Management Learning Path](https://peak-solution.github.io/data_management_learning_path/)
 
-  A collection of Jupyter Notebooks - explaining how to deal with ASAM ODS data, creating EXD-API Plugins or using Apache Spark in combination with ASAM ODS.
+  A collection of Jupyter Notebooks - explaining how to deal with ASAM ODS data, integrating with agentic-AI workflows, creating EXD-API Plugins or using Apache Spark in combination with ASAM ODS.
 
 ## Connect your Data
 
@@ -44,6 +44,7 @@ Seamlessly integrate your data to standardized data management solutions using E
 | Dewesoft DxD   | \*.d7d, \*.d7z \*.dxd | [asam_ods_exd_api_dewesoft](https://github.com/peak-solution/asam_ods_exd_api_dewesoft?tab=readme-ov-file#readme) |
 | Excel example  | \*.xlsx               | [asam_ods_exd_api_excel](https://github.com/peak-solution/asam_ods_exd_api_xlsx?tab=readme-ov-file#readme) |
 | dydaqlog       | \*.csv                | [asam_ods_exd_api_dydaqlog](https://github.com/peak-solution/asam_ods_exd_api_dydaqlog_csv?tab=readme-ov-file#readme) |
+| microunidaq    | \*.hdf5               | [asam_ods_exd_api_microunidaq](https://github.com/peak-solution/asam_ods_exd_api_microunidaq#) |
 
 Learn how to develop your specific EXD-API Plugin in the  [Data Management Learning Path](https://peak-solution.github.io/data_management_learning_path/exd_api/overview.html).
 
